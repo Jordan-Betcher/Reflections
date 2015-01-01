@@ -1,0 +1,15 @@
+Being able to compare versions allows you to narrow your search to changes made and how they effected the program.
+
+You will be able to see all the Mistakes/corrections you've made
+
+You are able to make more logical/readible comments
+
+They have different purposes
+
+Type "git log" to view the history
+
+You can always revert to previous version before the bug
+
+I wanna use git to help with my programming on eclipse, or use it with the david story's pictures
+
+It starts saving version? To start it rolling
