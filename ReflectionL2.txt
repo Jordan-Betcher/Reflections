@@ -3,3 +3,7 @@ it changes more times, time to think
 Make alot of commits
 
 Create another project, experiment with ideas
+
+It shows you the branches
+
+Merging two branches together gets tricky, and I ended up with alot of duplicate code :/
