@@ -7,3 +7,5 @@ Create another project, experiment with ideas
 It shows you the branches
 
 Merging two branches together gets tricky, and I ended up with alot of duplicate code :/
+
+Automatic merging is prone to error while manual you will decide
